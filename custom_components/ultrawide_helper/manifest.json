@@ -1,0 +1,12 @@
+{
+  "domain": "ultrawide_helper",
+  "name": "Ultrawide Screen Helper",
+  "version": "1.0.0",
+  "requirements": [],
+  "dependencies": ["frontend", "http"],
+  "codeowners": ["@denser"],
+  "config_flow": false,
+  "iot_class": "local_push",
+  "documentation": "https://github.com/denser/ha-ultrawide-helper",
+  "issue_tracker": "https://github.com/denser/ha-ultrawide-helper/issues"
+}
