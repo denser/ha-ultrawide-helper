@@ -1,0 +1,7 @@
+{
+  "name": "Ultrawide Screen Helper",
+  "filename": "ultrawide-card.js",
+  "render_readme": true,
+  "homeassistant": "2026.3.0",
+  "country": ["US", "RU", "ALL"]
+}
